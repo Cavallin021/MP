@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1697993548 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\dominios.cpp
+	"dominios.h"
+	"regex"
+
+1697585644 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\dominios.h
+	<stdexcept>
+
+1698008000 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\entidades.cpp
+	"entidades.h"
+
+1698007948 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\entidades.h
+	"dominios.h"
+	<string>
+
+1701179321 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+	"Usuario.h"
+	"Usuario.cpp"
+	"database.h"
+
+1698008844 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1698008906 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\testes.cpp
+	"testes.h"
+
+1697993548 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\dominios.cpp
+	"dominios.h"
+	"regex"
+
+1697585644 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\dominios.h
+	<stdexcept>
+
+1698008000 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\entidades.cpp
+	"entidades.h"
+
+1698007948 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\entidades.h
+	"dominios.h"
+	<string>
+
+1701178793 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+	"Usuario.h"
+	"Usuario.cpp"
+	"database.h"
+
+1698008844 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1698008906 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\testes.cpp
+	"testes.h"
+
+1701179202 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\usuario.cpp
+	"Usuario.h"
+	"dominios.h"
+	<iostream>
+	"database.h"
+
+1701179181 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\usuario.h
+	<string>
+
+1701178864 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\usuario.cpp
+	"Usuario.h"
+	"dominios.h"
+	<iostream>
+	"database.h"
+
+1701176017 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\database.cpp
+	"database.h"
+	<iostream>
+
+1701174897 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\database.h
+	"sqlite3.h"
+	<string>
+
+1701127327 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1 - copia\sqlite3.h
+	<stdarg.h>
+
+1701179181 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\usuario.h
+	<string>
+
+1701179202 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\usuario.cpp
+	"Usuario.h"
+	"dominios.h"
+	<iostream>
+	"database.h"
+
+1701174897 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\database.h
+	"sqlite3.h"
+	<string>
+
+1701127327 d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\sqlite3.h
+	<stdarg.h>
+
+1701179202 source:d:\família\.joão victor\tp1\trabalho 1 - cb\trabalho 1\usuario.cpp
+	"Usuario.h"
+	"dominios.h"
+	<iostream>
+	"database.h"
+
